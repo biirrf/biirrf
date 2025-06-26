@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @biirrf
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me @biirrf on Instagram
+Hi, I’m Mohaned 👋
 
-<!---
-biirrf/biirrf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Science student at UCLan with a passion for building practical, real-world tech solutions.  
+💼 I currently work at Tuckers Solicitors, where I support legal operations — and I’m exploring the intersection between law and technology.  
+🛠️ I’m building projects to improve everyday processes, with a focus on web apps, automation, and data tools.  
+📈 I'm actively learning Python, JavaScript, and cloud tools to prepare for a tech career in the UK.  
+🔍 Looking to connect with tech professionals, recruiters, and fellow learners.  
+
+Let’s build something great together!
